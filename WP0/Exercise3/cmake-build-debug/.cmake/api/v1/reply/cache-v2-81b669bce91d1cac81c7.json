@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Axilotl/Desktop/Group 1/WP0/Exercise1/cmake-build-debug"
+			"value" : "c:/Users/Axilotl/Desktop/Group 1/DIT632-Group-1/WP0/Exercise3/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Axilotl/Desktop/Group 1/WP0/Exercise1"
+			"value" : "C:/Users/Axilotl/Desktop/Group 1/DIT632-Group-1/WP0/Exercise3"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -491,7 +491,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Exercise1"
+			"value" : "C:/Program Files (x86)/Exercise3"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -707,7 +707,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Exercise1"
+			"value" : "Exercise3"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1086,7 +1086,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Exercise1_BINARY_DIR",
+			"name" : "Exercise3_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1095,10 +1095,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Axilotl/Desktop/Group 1/WP0/Exercise1/cmake-build-debug"
+			"value" : "C:/Users/Axilotl/Desktop/Group 1/DIT632-Group-1/WP0/Exercise3/cmake-build-debug"
 		},
 		{
-			"name" : "Exercise1_IS_TOP_LEVEL",
+			"name" : "Exercise3_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1110,7 +1110,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Exercise1_SOURCE_DIR",
+			"name" : "Exercise3_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Axilotl/Desktop/Group 1/WP0/Exercise1"
+			"value" : "C:/Users/Axilotl/Desktop/Group 1/DIT632-Group-1/WP0/Exercise3"
 		}
 	],
 	"kind" : "cache",

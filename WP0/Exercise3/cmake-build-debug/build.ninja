@@ -39,13 +39,13 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/Axilotl/Desktop/Group$ 1/WP0/Exercise3/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/Axilotl/Desktop/Group$ 1/DIT632-Group-1/WP0/Exercise3/cmake-build-debug/
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Axilotl\Desktop\Group 1\WP0\Exercise3\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\Axilotl\Desktop\Group 1\DIT632-Group-1\WP0\Exercise3\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -60,7 +60,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 
 build cmake_object_order_depends_target_Exercise3: phony || CMakeFiles/Exercise3.dir
 
-build CMakeFiles/Exercise3.dir/main.c.obj: C_COMPILER__Exercise3_Debug C$:/Users/Axilotl/Desktop/Group$ 1/WP0/Exercise3/main.c || cmake_object_order_depends_target_Exercise3
+build CMakeFiles/Exercise3.dir/main.c.obj: C_COMPILER__Exercise3_Debug C$:/Users/Axilotl/Desktop/Group$ 1/DIT632-Group-1/WP0/Exercise3/main.c || cmake_object_order_depends_target_Exercise3
   DEP_FILE = CMakeFiles\Exercise3.dir\main.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\Exercise3.dir
@@ -92,7 +92,7 @@ build Exercise3.exe: C_EXECUTABLE_LINKER__Exercise3_Debug CMakeFiles/Exercise3.d
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Axilotl\Desktop\Group 1\WP0\Exercise3\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\Axilotl\Desktop\Group 1\WP0\Exercise3" -B"C:\Users\Axilotl\Desktop\Group 1\WP0\Exercise3\cmake-build-debug""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\Axilotl\Desktop\Group 1\DIT632-Group-1\WP0\Exercise3\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\Axilotl\Desktop\Group 1\DIT632-Group-1\WP0\Exercise3" -B"C:\Users\Axilotl\Desktop\Group 1\DIT632-Group-1\WP0\Exercise3\cmake-build-debug""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -110,7 +110,7 @@ build Exercise3: phony Exercise3.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/Axilotl/Desktop/Group 1/WP0/Exercise3/cmake-build-debug
+# Folder: C:/Users/Axilotl/Desktop/Group 1/DIT632-Group-1/WP0/Exercise3/cmake-build-debug
 
 build all: phony Exercise3.exe
 

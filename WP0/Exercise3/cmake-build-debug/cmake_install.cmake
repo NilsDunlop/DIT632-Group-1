@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Axilotl/Desktop/Group 1/WP0/Exercise3
+# Install script for directory: C:/Users/Axilotl/Desktop/Group 1/DIT632-Group-1/WP0/Exercise3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Axilotl/Desktop/Group 1/WP0/Exercise3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Axilotl/Desktop/Group 1/DIT632-Group-1/WP0/Exercise3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
